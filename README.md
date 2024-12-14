@@ -7,6 +7,7 @@
 - Update nodes.csv with your nodes ids
 - Update the username and the pass variables with your values
 - Run the script: . 'C:\Users\john\Get-ANStats.ps1' | Out-File an-stats-1.csv
+- Run the script: . 'C:\Users\john\Get-ANCoords.ps1' | Out-File an-coords.csv
 
 # How to fill nodes.csv file
 - browse to dashboard --> airnodes
